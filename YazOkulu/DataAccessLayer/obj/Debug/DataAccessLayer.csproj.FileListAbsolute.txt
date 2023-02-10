@@ -1,0 +1,9 @@
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\bin\Debug\EntityLayer1.dll
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\bin\Debug\EntityLayer1.pdb
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\helin\source\repos\YazOkulu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
